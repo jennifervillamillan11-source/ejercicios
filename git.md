@@ -1,8 +1,36 @@
-# ejercicios
-README.md
-actualizacion de taller
+# TRABAJO TEÓRICO - GIT
 
-Un commit guarda: autor, fecha, mensaje descriptivo y una referencia a los cambios realizados.
+
+
+## 1. ¿Qué es un repositorio en Git?
+Un repositorio es una carpeta de proyecto gestionada por Git que guarda los archivos y su historial de cambios en la carpeta oculta .git.  
+Permite controlar versiones, trabajar con ramas y colaborar con otras personas.
+
+---
+
+## 2. Tres áreas principales de Git
+- **Working Directory:** Donde se modifican los archivos.
+- **Staging Area:** Donde se preparan los cambios antes del commit.
+- **Repository:** Donde se guardan definitivamente los commits.
+
+---
+
+## 3. ¿Cómo representa Git los cambios?
+Git usa objetos:
+- Blob (contenido del archivo)
+- Tree (estructura de carpetas)
+- Commit (punto del historial)
+- Tag (marca de versión)
+
+---
+
+## 4. ¿Cómo se crea un commit?
+Se utiliza:
+git add .
+git commit -m "mensaje"
+
+Un commit guarda autor, fecha y descripción de los cambios.
+
 
 ---
 
