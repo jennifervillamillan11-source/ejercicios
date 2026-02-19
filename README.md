@@ -19,12 +19,7 @@ Git usa punteros que señalan al último commit de cada rama.
 ---
 
 ## 7. ¿Cómo se hace un merge y qué conflictos pueden aparecer?
-Se usa:
-
-
----
-
-Puede haber conflictos si dos personas modificaron la misma parte del archivo.  
+Se usa:Puede haber conflictos si dos personas modificaron la misma parte del archivo.  
 Se resuelven editando el archivo manualmente y luego haciendo commit.
 
 ---
@@ -62,8 +57,6 @@ Es útil cuando necesitas cambiar de rama rápidamente sin perder tu trabajo.
 ## 13. ¿Qué son origin y upstream?
 - **origin:** Es el repositorio remoto principal.
 - **upstream:** Es el repositorio original cuando trabajas con un fork.
-
-Se usan comandos como:
 
 
 
