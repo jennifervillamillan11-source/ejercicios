@@ -43,4 +43,3 @@ Permite que una clase herede características de otra usando la palabra clave:
 
 ## 22. ¿Qué es una variable de entorno?
 Es un valor configurado en el sistema operativo que los programas pueden usar para obtener información, como rutas o configuraciones.
-
